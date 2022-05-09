@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2> Hi, I'm Dehui! <img src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" width="150"></h2>
+<img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width=150">
+<p><em>A recent computer science graduate student at <a href="https://www2.uottawa.ca/en">University of Ottawa</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>I am looking for a SDE job in Canada.    <a href="https://www.linkedin.com/in/dehui-yu-3a7062227/">Linkedin</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**Dwightu/Dwightu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: Dehui](https://img.shields.io/badge/-Dehui-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dehui/)](https://www.linkedin.com/in/dehui-yu-3a7062227/)
+[![GitHub Dwightu](https://img.shields.io/github/followers/Dwightu?label=follow&style=social)](https://github.com/Dwightu)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Dehui = {
+  pronouns: "he" | "his",
+  code: [Javascript, HTML, CSS, Python, Java],
+  tools: [React, Redux, Node, Nextjs, Jira, Git],
+  challenge: "I am doing the #100DaysOfCode challenge focused on MERN full stack development"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love talking with different people</b> so if you want to say hi, I'll be happy to meet you more! <b>You can link me at <a href="https://www.linkedin.com/in/dehui-yu-3a7062227/">linkedin<a/></b> :)</em>
+
+---
