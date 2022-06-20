@@ -12,8 +12,8 @@
 ```javascript
 const Dehui = {
   pronouns: "he" | "his",
-  code: [Javascript, HTML, CSS, Python, Java],
-  tools: [React, Redux, Node, Nextjs, Jira, Git],
+  code: [Javascript,Typescript, HTML, CSS, Python, Java],
+  tools: [Docker, Kubernetes, React, Redux, Node, Nextjs, Jira, Git],
   challenge: "I am doing the #100DaysOfCode challenge focused on MERN full stack development"
 }
 ```
