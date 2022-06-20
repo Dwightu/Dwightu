@@ -1,5 +1,5 @@
 <h2> Hi, I'm Dehui! <img src="https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" width="150"></h2>
-<img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width=150">
+<img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="150">
 <p><em>A recent computer science graduate student at <a href="https://www2.uottawa.ca/en">University of Ottawa</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>I am looking for a SDE job in Canada.    <a href="https://www.linkedin.com/in/dehui-yu-3a7062227/">Linkedin</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
